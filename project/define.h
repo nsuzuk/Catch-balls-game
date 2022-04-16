@@ -1,0 +1,14 @@
+#define WIDTH 960	
+#define HEIGHT 540
+#define CENTER 480
+#define BLOCK 30
+#define BALL 20
+#define SIZEY 60		 
+#define SIZE 30	           
+#define P_VX 4			
+#define P_VY 4
+#define M_VX 2			
+#define M_VY 2 
+#define B_VX 4
+#define B_VY 4
+#define TIME 30000

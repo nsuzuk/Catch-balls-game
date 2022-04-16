@@ -1,0 +1,12 @@
+void update();
+void load();
+void judge_mom_to_player();
+void judge_ball_to_player();
+void judge_player_to_ball();
+void move_player();
+void move_mom();
+void move_ball();
+void draw();
+void keystate();
+int initialize();
+int setup();
